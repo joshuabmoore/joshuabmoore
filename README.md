@@ -4,10 +4,11 @@
  	<a href=mailto:joshua.moore@sydney.edu.au><img src="https://img.shields.io/badge/joshua.moore@sydney.edu.au-%23171A21.svg?logo=Gmail&logoColor=white" height="20"/></a>
 </p>
 
-<img align="right" src="https://github.com/jmoo2880/jmoo2880/blob/main/assets/programming_gif.gif" width=30%>
+<img align="right" src="https://github.com/jmoo2880/jmoo2880/blob/main/assets/programming_gif.gif" width=50%>
 Hi there, I'm a PhD student at the University of Sydney, within the Complex Systems Group!
 A lot of my research is currently centred around time-series analysis, inference, and machine learning, although my interests extend across disciplines. For example, I've applied concepts from quantum-body physics to tackle data-driven time-series analysis problems such as classifcation, imputation and synthetic data generation.
 
+I work primarily in the vastly superior scientific computing language Julia, although I don't mind a bit of Python and MATLAB. 
 
 
 
@@ -24,9 +25,6 @@ A lot of my research is currently centred around time-series analysis, inference
   <img align="center" height=200/>
 </picture>
 </p>
-
-
-I work primarily in the vastly superior scientific computing language [Julia](https://github.com/JuliaLang/julia), although I don't mind a bit of Python and MATLAB. 
 
 <p align="center" width="100%">
   <picture>
