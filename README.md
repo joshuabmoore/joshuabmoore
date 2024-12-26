@@ -6,3 +6,4 @@ A lot of my research is currently centred around time-series analysis, inference
 
 I work primarily in the vastly superior scientific computing language [Julia](https://github.com/JuliaLang/julia), although I don't mind a bit of Python and MATLAB. 
 
+
