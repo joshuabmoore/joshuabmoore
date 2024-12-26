@@ -4,11 +4,14 @@
  	<a href=mailto:joshua.moore@sydney.edu.au><img src="https://img.shields.io/badge/joshua.moore@sydney.edu.au-%23171A21.svg?logo=Gmail&logoColor=white" height="20"/></a>
 </p>
 
+<img align="right" src="https://github.com/jmoo2880/jmoo2880/blob/main/assets/programming_gif.gif" width=30%>
 Hi there, I'm a PhD student at the University of Sydney, within the Complex Systems Group!
 A lot of my research is currently centred around time-series analysis, inference, and machine learning, although my interests extend across disciplines. For example, I've applied concepts from quantum-body physics to tackle data-driven time-series analysis problems such as classifcation, imputation and synthetic data generation.
 
 
-<p align="center" width="100%">
+
+
+<p align="left" width="100%">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=jmoo2880&show_icons=true&theme=dark&hide_rank=true&count_private=true"
