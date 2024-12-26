@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=100&duration=2000&pause=4000&color=7084F7&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi+I'm+Josh!)](https://git.io/typing-svg)
 
 <p align="center">
- 	<a href=mailto:joshua.moore@sydney.edu.au><img src="https://img.shields.io/badge/joshua.moore@sydney.edu.au-%23171A21.svg?logo=Gmail&logoColor=white" height="20"/></a>
+ 	<a href=mailto:jmoo2880@uni.sydney.edu.au><img src="https://img.shields.io/badge/joshua.moore@sydney.edu.au-%23171A21.svg?logo=Gmail&logoColor=white" height="20"/></a>
 </p>
 
 <img align="right" src="https://github.com/jmoo2880/jmoo2880/blob/main/assets/programming_gif.gif" width=50%>
