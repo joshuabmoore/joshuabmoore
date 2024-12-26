@@ -1,6 +1,9 @@
-[![Twitter](https://img.shields.io/badge/joshua.moore@sydney.edu.au-%23171A21.svg?logo=Gmail&logoColor=white)](mailto:joshua.moore@sydney.edu.au)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=100&duration=2000&pause=4000&color=7084F7&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi+I'm+Josh!)](https://git.io/typing-svg)
+
+<p align="center">
+ 	<a href=mailto:joshua.moore@sydney.edu.au><img src="https://img.shields.io/badge/joshua.moore@sydney.edu.au-%23171A21.svg?logo=Gmail&logoColor=white" height="20"/></a>
+</p>
+[![Twitter](https://img.shields.io/badge/joshua.moore@sydney.edu.au-%23171A21.svg?logo=Gmail&logoColor=white)](mailto:joshua.moore@sydney.edu.au)
 
 Hi there, I'm a PhD student at the University of Sydney, within the Complex Systems Group!
 A lot of my research is currently centred around time-series analysis, inference, and machine learning, although my interests extend across disciplines. For example, I've applied concepts from quantum-body physics to tackle data-driven time-series analysis problems such as classifcation, imputation and synthetic data generation.
