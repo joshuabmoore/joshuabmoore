@@ -6,7 +6,7 @@
 </p>
 
 
-<img align="right" src="https://github.com/jmoo2880/jmoo2880/blob/main/assets/programming_gif.gif" width=50%>
+<img align="right" src="https://github.com/joshuabmoore/joshuabmoore/blob/main/assets/programming_gif.gif" width=50%>
 Hi there, I'm a PhD student at the University of Sydney, within the Complex Systems Group!
 A lot of my research is currently centred around time-series analysis, inference, and machine learning, although my interests extend across disciplines. For example, I've applied concepts from quantum-body physics to tackle data-driven time-series analysis problems such as classifcation, imputation and synthetic data generation.
 
@@ -16,11 +16,11 @@ I work primarily in the vastly superior scientific computing language Julia, alt
 <p align="left" width="100%">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jmoo2880&show_icons=true&theme=dark&hide_rank=true&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=joshuabmoore&show_icons=true&theme=dark&hide_rank=true&count_private=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jmoo2880&show_icons=true&theme=light&hide_rank=true&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=joshuabmoore&show_icons=true&theme=light&hide_rank=true&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img align="center" height=200/>
