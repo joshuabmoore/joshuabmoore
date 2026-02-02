@@ -2,7 +2,7 @@
 
 <p align="center">
  	<a href=mailto:jmoo2880@uni.sydney.edu.au><img src="https://img.shields.io/badge/jmoo2880@uni.sydney.edu.au-%23171A21.svg?logo=Gmail&logoColor=white" height="20"/></a>
-  <a href="https://personal-website-cb6b4.web.app"><img src="https://img.shields.io/badge/website-000000?style=for-the-       badge&logo=About.me&logoColor=white"></a>
+  
 </p>
 
 
