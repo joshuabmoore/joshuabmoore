@@ -10,9 +10,6 @@
 Hi there, I'm a PhD student at the University of Sydney, within the Complex Systems Group!
 A lot of my research is currently centred around time-series analysis, inference, and machine learning, although my interests extend across disciplines. For example, I've applied concepts from quantum-body physics to tackle data-driven time-series analysis problems such as classifcation, imputation and synthetic data generation.
 
-I work primarily in the vastly superior scientific computing language Julia, although I don't mind a bit of Python and MATLAB. 
-
-
 <p align="left" width="100%">
 <picture>
   <source
