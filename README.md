@@ -20,9 +20,7 @@
 
 I build open-source scientific software for **time-series analysis, statistical inference, and machine learning**.
 
-My research is multi-disciplinary, from applying methods developed for quantum many-body physics (specifically matrix-product states) to data-driven time-series problems such as classification, imputation, and synthetic data generation, to using statistical and dynamical-systems methods to infer structure in complex, non-stationary processes
-
-. Alongside that, I maintain and develop widely-used feature-extraction libraries that let researchers compare thousands of time-series statistics in a single, reproducible pipeline.
+My research is multi-disciplinary, from applying methods developed for quantum many-body physics (specifically matrix-product states) to data-driven time-series problems such as classification, imputation, and synthetic data generation, to using statistical and dynamical-systems methods to infer structure in complex, non-stationary processes. Alongside that, I maintain and develop widely-used feature-extraction libraries that let researchers compare thousands of time-series statistics in a single, reproducible pipeline.
 
 I work mainly in **Python** and **Julia**, with a focus on performance, correctness, and libraries that other people (from hobbyists and researchers to clinicians) can actually pick up and use.
 
