@@ -1,46 +1,84 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=100&duration=2000&pause=4000&color=7084F7&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi+I'm+Josh!)](https://git.io/typing-svg)
+<h1 align="center">Josh Moore</h1>
 
 <p align="center">
- 	<a href=mailto:jmoo2880@uni.sydney.edu.au><img src="https://img.shields.io/badge/jmoo2880@uni.sydney.edu.au-%23171A21.svg?logo=Gmail&logoColor=white" height="20"/></a>
-  
+  PhD candidate, <a href="https://www.sydney.edu.au/science/our-research/research-areas/physics/complex-systems.html">Complex Systems Group</a> &middot; The University of Sydney
 </p>
 
+<p align="center">
+  <a href="mailto:jmoo2880@uni.sydney.edu.au"><img src="https://img.shields.io/badge/Email-171A21?style=flat&logo=gmail&logoColor=white" height="22"/></a>
+  <a href="https://github.com/joshuabmoore"><img src="https://img.shields.io/badge/GitHub-171A21?style=flat&logo=github&logoColor=white" height="22"/></a>
+  <a href="https://scholar.google.com/citations?user=uws6PUQAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-171A21?style=flat&logo=googlescholar&logoColor=white" height="22"/></a>
+  <!-- Add these once you have them public:
+  <a href="YOUR_SITE"><img src="https://img.shields.io/badge/Website-171A21?style=flat&logo=hugo&logoColor=white" height="22"/></a>
+  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-171A21?style=flat&logo=linkedin&logoColor=white" height="22"/></a>
+  -->
+</p>
 
-<img align="right" src="https://github.com/joshuabmoore/joshuabmoore/blob/main/assets/programming_gif.gif" width=50%>
-Hi there, I'm a PhD student at the University of Sydney, within the Complex Systems Group!
-A lot of my research is currently centred around time-series analysis, inference, and machine learning, although my interests extend across disciplines. For example, I've applied concepts from quantum-body physics to tackle data-driven time-series analysis problems such as classifcation, imputation and synthetic data generation.
+---
 
-<p align="left" width="100%">
+### About
+
+I build open-source scientific software for **time-series analysis, statistical inference, and machine learning**.
+
+My research borrows tools from quantum many-body physics — specifically matrix-product states — and applies them to data-driven time-series problems: classification, imputation, and synthetic data generation. Alongside that, I maintain and develop widely-used feature-extraction libraries that let researchers compare thousands of time-series statistics in a single, reproducible pipeline.
+
+I work mainly in **Python** and **Julia**, with a focus on performance, correctness, and libraries that other people can actually pick up and use.
+
+---
+
+### Featured Work
+
+**[pyhctsa](https://github.com/DynamicsAndNeuralSystems/pyhctsa)** &nbsp;·&nbsp; Python &nbsp;·&nbsp; [docs](https://dynamicsandneuralsystems.github.io/pyhctsa/)
+> The most comprehensive time-series feature-extraction package in Python — a native port of the MATLAB `hctsa` library, giving access to thousands of interpretable time-series features without a MATLAB licence. I am the lead developer and primary contributor; published in the *Journal of Open Source Software* (2026).
+
+**[pyspi](https://github.com/DynamicsAndNeuralSystems/pyspi)** &nbsp;·&nbsp; Python &nbsp;·&nbsp; [docs](https://time-series-features.gitbook.io/pyspi/)
+> A library for comparative analysis of pairwise interactions in multivariate time series, evaluating hundreds of statistics of dependence side by side. I am the top contributor by commit volume, working across the estimator suite, testing, and performance.
+
+**[MPSTime.jl](https://github.com/hugopstackhouse/MPSTime.jl)** &nbsp;·&nbsp; Julia &nbsp;·&nbsp; [docs](https://hugopstackhouse.github.io/MPSTime.jl/)
+> A Julia package for learning the joint probability distribution of time series directly from data using matrix-product state (MPS) methods from quantum many-body physics. Supports classification, imputation, and synthetic data generation. Co-authored from the ground up; the underlying method is published in *Physical Review Research* (2025).
+
+**[c22-usage-examples](https://github.com/joshuabmoore/c22-usage-examples)** &nbsp;·&nbsp; Jupyter
+> A curated set of worked examples for `pycatch22`, the 22-feature canonical time-series characteristics set — practical recipes for feature-based time-series classification.
+
+---
+
+### Publications
+
+**Using matrix-product states for time-series machine learning**
+*J. B. Moore, H. P. Stackhouse, B. D. Fulcher, S. Mahmoodian*
+Physical Review Research **7**, 043010 (2025) &nbsp;·&nbsp; [doi:10.1103/61h8-8qr5](https://doi.org/10.1103/61h8-8qr5)
+> Introduces MPSTime, the first matrix-product-state algorithm for learning the joint probability distribution underlying a time-series dataset, and applies it to classification and imputation at moderate bond dimension.
+
+**pyhctsa: A Python package for highly comparative time-series analysis**
+*J. B. Moore, B. D. Fulcher*
+Journal of Open Source Software **11** (123), 10581 (2026) &nbsp;·&nbsp; [doi:10.21105/joss.10581](https://doi.org/10.21105/joss.10581)
+
+<sub>Full list on <a href="https://scholar.google.com/citations?user=uws6PUQAAAAJ">Google Scholar</a>.</sub>
+
+---
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" height="22"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" height="22"/>
+</p>
+
+---
+
+<p align="center">
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=joshuabmoore&show_icons=true&theme=dark&hide_rank=true&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=joshuabmoore&show_icons=true&theme=light&hide_rank=true&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="center" height=200/>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=joshuabmoore&show_icons=true&theme=dark&hide_rank=true&hide_border=true&count_private=true&bg_color=00000000" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=joshuabmoore&show_icons=true&theme=default&hide_rank=true&hide_border=true&count_private=true&bg_color=00000000" media="(prefers-color-scheme: light)" />
+  <img height="160" alt="GitHub stats" />
 </picture>
 </p>
 
-<p align="center" width="100%">
-  <picture>
-    <!-- Dark mode version -->
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/jmoo2880/jmoo2880/output/github-snake-dark.svg"
-    />
-    <!-- Light mode version -->
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/jmoo2880/jmoo2880/output/github-snake.svg"
-    />
-    <!-- Fallback (for browsers that don't support prefers-color-scheme) -->
-    <img
-      width="100%"
-      src="https://raw.githubusercontent.com/jmoo2880/jmoo2880/output/github-snake.svg"
-      alt="snake animation"
-    />
-  </picture>
-</p>
+<p align="center"><sub>Open to research and engineering roles in scientific computing, ML, and data science. Reach me at <a href="mailto:jmoo2880@uni.sydney.edu.au">jmoo2880@uni.sydney.edu.au</a>.</sub></p>
