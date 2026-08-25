@@ -1,11 +1,11 @@
 <h1 align="center">Joshua Moore</h1>
 
 <p align="center">
-  PhD candidate, <a href="https://dynamicsandneuralsystems.github.io">Dynmaics and Neural Systems Group</a> &middot; School of Physics, The University of Sydney
+  PhD candidate, <a href="https://dynamicsandneuralsystems.github.io">Dynamics and Neural Systems Group</a> &middot; School of Physics, The University of Sydney
 </p>
 
 <p align="center">
-  <a href="mailto:jmoo2880@uni.sydney.edu.au"><img src="https://img.shields.io/badge/Email-171A21?style=flat&logo=gmail&logoColor=white" height="22"/></a>
+  <a href="mailto:joshua.moore@sydney.edu.au"><img src="https://img.shields.io/badge/Email-171A21?style=flat&logo=gmail&logoColor=white" height="22"/></a>
   <a href="https://github.com/joshuabmoore"><img src="https://img.shields.io/badge/GitHub-171A21?style=flat&logo=github&logoColor=white" height="22"/></a>
   <a href="https://scholar.google.com/citations?user=uws6PUQAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-171A21?style=flat&logo=googlescholar&logoColor=white" height="22"></a>
   <a href="https://www.linkedin.com/in/joshua-moore-500906221/"><img src="https://img.shields.io/badge/LinkedIn-171A21?style=flat&logo=linkedin&logoColor=white" height="22"/></a>
@@ -28,17 +28,69 @@ I work mainly in **Python** and **Julia**, with a focus on performance, correctn
 
 ### Featured Work
 
-**[pyhctsa](https://github.com/DynamicsAndNeuralSystems/pyhctsa)** &nbsp;·&nbsp; Python &nbsp;·&nbsp; [docs](https://dynamicsandneuralsystems.github.io/pyhctsa/)
-> The most comprehensive time-series feature-extraction package in Python — a native port of the MATLAB `hctsa` library, giving access to thousands of interpretable time-series features without a MATLAB licence. I am the lead developer and primary contributor; published in the *Journal of Open Source Software* (2026).
+<table>
+  <tr>
+    <td width="140" align="center" valign="middle">
+      <picture>
+      <source srcset="https://raw.githubusercontent.com/DynamicsAndNeuralSystems/pyhctsa/main/img/pyhctsa_logo_dark.png" media="(prefers-color-scheme: dark)"/>
+        <img src="https://raw.githubusercontent.com/DynamicsAndNeuralSystems/pyhctsa/main/img/pyhctsa_logo.png" alt="pyhctsa logo" width="110"/>
+      </picture>
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/DynamicsAndNeuralSystems/pyhctsa"><strong>pyhctsa</strong></a>
+      &nbsp;&middot;&nbsp; Python &nbsp;&middot;&nbsp;
+      <a href="https://dynamicsandneuralsystems.github.io/pyhctsa/">docs</a>
+      <br/>
+      The most comprehensive time-series feature-extraction package in Python &mdash; a native port of the MATLAB <code>hctsa</code> library, giving access to thousands of interpretable time-series features without a MATLAB licence. I am the lead developer and primary contributor; published in the <em>Journal of Open Source Software</em> (2026).
+    </td>
+  </tr>
 
-**[MPSTime.jl](https://github.com/hugopstackhouse/MPSTime.jl)** &nbsp;·&nbsp; Julia &nbsp;·&nbsp; [docs](https://hugopstackhouse.github.io/MPSTime.jl/)
-> A Julia package for learning the joint probability distribution of time series directly from data using matrix-product state (MPS) methods from quantum many-body physics. Supports classification, imputation, and synthetic data generation. Co-authored from the ground up; the underlying method is published in *Physical Review Research* (2025).
+  <tr>
+    <td width="140" align="center" valign="middle">
+      <picture>
+      <source srcset="https://raw.githubusercontent.com/hugopstackhouse/MPSTime.jl/main/docs/src/assets/logo-dark.svg" media="(prefers-color-scheme: dark)"/>
+        <img src="https://raw.githubusercontent.com/hugopstackhouse/MPSTime.jl/main/docs/src/assets/logo.svg" alt="MPSTime.jl logo" width="110"/>
+      </picture>
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/hugopstackhouse/MPSTime.jl"><strong>MPSTime.jl</strong></a>
+      &nbsp;&middot;&nbsp; Julia &nbsp;&middot;&nbsp;
+      <a href="https://hugopstackhouse.github.io/MPSTime.jl/">docs</a>
+      <br/>
+      A Julia package for learning the joint probability distribution of time series directly from data using matrix-product state (MPS) methods from quantum many-body physics. Supports classification, imputation, and synthetic data generation. Co-authored from the ground up; the underlying method is published in <em>Physical Review Research</em> (2025).
+    </td>
+  </tr>
 
-**[pyspi](https://github.com/DynamicsAndNeuralSystems/pyspi)** &nbsp;·&nbsp; Python &nbsp;·&nbsp; [docs](https://time-series-features.gitbook.io/pyspi/)
-> A library for comparative analysis of pairwise interactions in multivariate time series, evaluating hundreds of statistics of dependence side by side. I am the top contributor by commit volume, working across the estimator suite, testing, and performance.
+  <tr>
+    <td width="140" align="center" valign="middle">
+      <picture>
+      <source srcset="https://raw.githubusercontent.com/DynamicsAndNeuralSystems/pyspi/main/img/pyspi_logo_darkmode.png" media="(prefers-color-scheme: dark)"/>
+        <img src="https://raw.githubusercontent.com/DynamicsAndNeuralSystems/pyspi/main/img/pyspi_logo.png" alt="pyspi logo" width="110"/>
+      </picture>
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/DynamicsAndNeuralSystems/pyspi"><strong>pyspi</strong></a>
+      &nbsp;&middot;&nbsp; Python &nbsp;&middot;&nbsp;
+      <a href="https://time-series-features.gitbook.io/pyspi/">docs</a>
+      <br/>
+      A library for comparative analysis of pairwise interactions in multivariate time series, evaluating hundreds of statistics of dependence side by side. I am the top contributor by commit volume, working across the estimator suite, testing, and performance.
+    </td>
+  </tr>
 
-**[c22-usage-examples](https://github.com/joshuabmoore/c22-usage-examples)** &nbsp;·&nbsp; Jupyter
-> A curated set of worked examples for `pycatch22`, the 22-feature canonical time-series characteristics set — practical recipes for feature-based time-series classification.
+  <tr>
+    <td width="140" align="center" valign="middle">
+      <picture>
+        <img src="https://raw.githubusercontent.com/DynamicsAndNeuralSystems/catch22/main/img/catch22_logo_square.png" alt="catch22 logo" width="110"/>
+      </picture>
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/joshuabmoore/c22-usage-examples"><strong>c22-usage-examples</strong></a>
+      &nbsp;&middot;&nbsp; Jupyter
+      <br/>
+      A curated set of worked examples for <code>pycatch22</code>, the 22-feature canonical time-series characteristics set &mdash; practical recipes for feature-based time-series classification.
+    </td>
+  </tr>
+</table>
 
 ---
 
