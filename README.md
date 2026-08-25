@@ -1,4 +1,4 @@
-<h1 align="center">Josh Moore</h1>
+<h1 align="center">Joshua Moore</h1>
 
 <p align="center">
   PhD candidate, <a href="https://dynamicsandneuralsystems.github.io">Dynmaics and Neural Systems Group</a> &middot; School of Physics, The University of Sydney
